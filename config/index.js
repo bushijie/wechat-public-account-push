@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oqhcU6UIjRxPIGiKnQ08GHHOT-iE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "_YXB43yJTQqLQNGH3mxuYeWA6ltZ9V1SYtPQ-sWwh98",
+      useTemplateId: "xFUN6JCiF61nOcQxUMfgCs1VgQRrfOnHFVdMUo5zqXE",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -149,7 +149,7 @@ export const config = {
    */
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-    {"type": "*生日", "name": "老婆", "year": "1996", "date": "10-25", isShowAge: true},
+    {"type": "*生日", "name": "老婆", "year": "1996", "date": "10-01", isShowAge: true},
     //{"type": "节日", "name": "结婚纪念日", "year": "2023", "date": "10-03"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
     //{"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
@@ -175,7 +175,7 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2022-08-08"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2023-09-09"},
+    //{"keyword": "marry_day", date: "2023-09-09"},
     // 退伍日
     //{"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
